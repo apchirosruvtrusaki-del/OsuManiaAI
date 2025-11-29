@@ -10,4 +10,4 @@ Automated beatmap generator specifically designed for **osu!mania (4K)** mode us
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_NAME/ManiaAI.git
+   git clone https://github.com/apchirosruvtrusaki-del/OsuManiaAI.git
